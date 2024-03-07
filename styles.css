@@ -1,0 +1,32 @@
+body{
+	font-family: "Sue Ellen Francisco", cursive;
+	font-weight: 100;
+	color:	#c84342;
+	background-image:url(https://i.pinimg.com/564x/db/da/14/dbda142cba3b3a225053138d4bf9e211.jpg);
+	background-attachment: fixed;
+  	background-size:800px;
+  	background-repeat: no repeat;
+  	align-content:center;
+}
+
+.h5{
+	color:	#c84342;
+}
+
+.footer{
+	background-color:white;
+}
+
+.navbar{
+	background-color: #fbbac3}
+
+.nav{
+	color:whitesmoke;
+}
+
+
+img{
+	padding:10px;
+}
+
+
